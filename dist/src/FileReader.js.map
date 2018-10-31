@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/FileReader.js"],"names":["FileReader","path"],"mappings":";;;;IAAOA,U,GACH,oBAAYC,IAAZ,EAAiB;AAAA;;AACb,SAAKA,IAAL,GAAYA,IAAZ;AACH,C","file":"FileReader.js","sourcesContent":["class  FileReader {\r\n    constructor(path){\r\n        this.path = path;\r\n    }\r\n}"]}
